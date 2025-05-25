@@ -1,53 +1,5 @@
-/* App.css */
-body {
-  background-color: #f5f5f5; /* Warna latar belakang lembut */
-}
-
-/* header {
-  background-color: #6200ea;
-  color: white;
-  padding: 1rem;
-  border-radius: 8px;
-} */
-
-nav a {
-  color: white !important;
-  padding: 0.5rem 1rem;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-radius: 4px;
-  transition: background-color 0.3s;
-}
-
-nav a:hover {
-  background-color: rgba(255, 255, 255, 0.4);
-}
-
-section {
-  background-color: white;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  margin-bottom: 1.5rem;
-  padding: 1.5rem;
-}
-
-#about {
-  border-left: 5px solid #00bcd4; /* Warna cyan */
-}
-
-#skills {
-  border-left: 5px solid #ff9800; /* Warna orange */
-}
-
-#contact {
-  border-left: 5px solid #4caf50; /* Warna hijau */
-}
-
-footer {
-  background-color: #333;
-  color: white;
+.App {
   text-align: center;
-  padding: 1rem;
-  border-radius: 8px;
 }
 
 .App-logo {
@@ -84,30 +36,3 @@ footer {
     transform: rotate(360deg);
   }
 }
-
-
-.App {
-  font-family: Arial, sans-serif;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 2rem;
-  text-align: center;
-}
-
-/* nav a {
-  margin-left: 20px;
-  text-decoration: none;
-  color: #333;
-} */
-
-/* section {
-  margin-bottom: 40px;
-  padding: 20px;
-  border-bottom: 1px solid #eee;
-} */
