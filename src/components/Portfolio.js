@@ -18,7 +18,7 @@ const Portfolio = () => {
         'Significantly improved Lapakgaming reseller system performance, reducing product retrieval time from 40 seconds to 5 seconds by optimizing data processing logic',
         'Successfully implemented changes to Kafka messages within the Buka 2.0 framework, ensuring seamless data flow'
       ],
-      technologies: ['Golang', 'Ruby', 'php', 'Kafka', 'MySql', 'microservices', 'opensearch','Redis','React',],
+      technologies: ['Golang', 'Ruby', 'php', 'Kafka', 'MySql', 'microservices', 'opensearch', 'Redis', 'React','Javascript'],
       image: imgBukalapak, // Placeholder image
     },
     {
