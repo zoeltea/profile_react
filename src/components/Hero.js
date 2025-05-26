@@ -18,7 +18,7 @@ const Hero = () => {
           <span className="text-yellow-300">Software Enginer | Quality Assurang Engineer | Quality Automation</span>
         </h1>
         <p className="text-xl md:text-2xl mb-8 opacity-90 animate-fade-in-up delay-200">
-          I am passionate about building software that is not only innovative but also of exceptional quality, driven by my deep expertise in ensuring product reliability.
+          Indonesian Software Engineer with a strong passion for developing impactful products, upholding high quality, and contributing to shared growth
         </p>
         <a
           href="#portfolio"

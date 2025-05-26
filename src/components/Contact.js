@@ -59,8 +59,8 @@ const Contact = () => {
             </button>
           </form> */}
           <div className="mt-8 text-center">
-            <p className="text-gray-700 text-lg">Atau hubungi saya langsung:</p>
-            <p className="text-indigo-600 font-semibold text-xl mt-2">zoeltea@gmail.com</p>
+            <p className="text-gray-700 text-lg">Contact email:</p>
+            <p className="text-indigo-600 font-semibold text-xl mt-2" href="mailto:zoeltea@gmail.com">zoeltea@gmail.com</p>
             <div className="flex justify-center space-x-6 mt-6">
               <a href="https://www.linkedin.com/in/zul-yatman" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-indigo-600 transition-colors duration-300">
                 {/* LinkedIn Icon */}
